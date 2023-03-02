@@ -1,7 +1,8 @@
 ### 안녕하세요 👋
 
-![Chigomuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chigomuh&theme=vision-friendly-dark&hide_rank=true&show_icons=true)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+[![Chigomuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chigomuh&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **chigomuh/chigomuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
